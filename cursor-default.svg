@@ -1,12 +1,11 @@
-<img>
-<svg class="filter" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<img class="filter">
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M14 7H15V22H14V7Z" fill="#A9A9A9"/>
 <path d="M7 15L7 14L22 14V15L7 15Z" fill="#A9A9A9"/>
 </svg>
-</img>
-
 <style>
   .filter {
     filter: invert(50%)
   }
 </style>
+</img>
